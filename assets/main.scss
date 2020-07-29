@@ -1,0 +1,48 @@
+---
+---
+
+@import "minima";
+
+body {
+    background-color: #AEA892;
+    color: #002D4A;
+    font-family: Arial,sans-serif;
+}
+
+img {
+    margin: 0.5em 0.2em;
+    padding: 0;
+    border: 1px solid #000;
+}
+
+img.logo {
+    margin: 0.3em 0;
+    padding: 0;
+    border: 0;
+}
+
+.site-header {
+    border-top-color: #000;
+    border-bottom-color: #FFF;
+}
+
+h1 {
+	color: #005281;
+	font-weight: bold;
+}
+
+a:link {
+	color: #005281;
+}
+
+a:active {
+	color: #FFF;
+}
+
+thead {
+    display: none;
+}
+
+table tr:nth-child(even) {
+    background-color: #bbb496;
+}

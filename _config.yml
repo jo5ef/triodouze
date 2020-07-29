@@ -1,0 +1,15 @@
+title: Trio Douze
+email: akg@trio-douze.at
+description: >-
+  Die Musiker des "Trio Douze" sind allesamt Mitglieder des Vereines "KIBU". Um die regelmässigen
+  KIBU-Konzerte abwechslungsreicher zu gestalten, entstand die Idee, ein Ensemble in nicht
+  alltäglicher Besetzung ins Leben zu rufen.
+baseurl: ""
+url: ""
+markdown: kramdown
+theme: minima
+defaults:
+  - scope:
+      path: "assets/photos"
+    values:
+      photo: true
