@@ -34,7 +34,7 @@ jobs:
     docker:
       - image: circleci/python:3.6.3
     environment:
-      S3_BUCKET_NAME: triodouze
+      S3_BUCKET_NAME: www.trio-douze.at
     steps:
       - attach_workspace:
           at: ./
