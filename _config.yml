@@ -8,6 +8,11 @@ baseurl: ""
 url: ""
 markdown: kramdown
 theme: minima
+header_pages:
+  - biografie.md
+  - cd.md
+  - fotos.md
+  - kritik.md
 defaults:
   - scope:
       path: "assets/photos"
