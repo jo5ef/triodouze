@@ -4,6 +4,11 @@ title: CD
 permalink: /cd/
 ---
 
+# Hörproben
+
+* [Francis Poulenc, Trio für Klavier, Oboe und Fagott, a Manuel de Falla - Rondo](/assets/poulenc.mp3)<br/><audio src="/assets/poulenc.mp3" controls="true"></audio>
+* [Trio Nr. 1 für Oboe, Fagott und Klavier - Langsames Polkatempo, etwas schwerfällig](/assets/wunderer.mp3)<br/><audio src="/assets/wunderer.mp3" controls="true"></audio>
+
 Aufgenommen im April 2006 im Kammermusiksaal des Instituts 12 der Kunstuniversität Graz in Oberschützen.
 
 | Oboe | Gottfried Boisits |
@@ -15,7 +20,7 @@ Aufgenommen im April 2006 im Kammermusiksaal des Instituts 12 der Kunstuniversit
 
 Eine Produktion von make.
 
-# Bestellung
+# CD Bestellung
 
 Klicken Sie auf folgende Schaltfläche um die CD zu bestellen. Die Zahlung erfolgt über ihr PayPal Konto oder mit Kreditkarte und die CD wird innerhalb weniger Tage per Post zugestellt.
 
@@ -51,7 +56,3 @@ Trio Douze CD jetzt bestellen!
 || **Henri Brod Duo aus Donizettis "Lucia di Lammermoor"** ||
 | 11 | Allegro - Larghetto - Allegro - Moderato legato | 10:51 |
 
-# Hörproben
-
-* [Francis Poulenc, Trio für Klavier, Oboe und Fagott, a Manuel de Falla - Rondo](/assets/poulenc.mp3)<br/><audio src="/assets/poulenc.mp3" controls="true"></audio>
-* [Trio Nr. 1 für Oboe, Fagott und Klavier - Langsames Polkatempo, etwas schwerfällig](/assets/wunderer.mp3)<br/><audio src="/assets/wunderer.mp3" controls="true"></audio>
