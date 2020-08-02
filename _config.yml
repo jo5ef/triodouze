@@ -13,6 +13,7 @@ header_pages:
   - cd.md
   - fotos.md
   - kritik.md
+google_analytics: UA-109133087-1
 defaults:
   - scope:
       path: "assets/photos"
