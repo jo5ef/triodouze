@@ -8,7 +8,7 @@ layout: home
 
 # Willkommen auf Trio-Douze.at!
 
-Die Musiker des *Trio Douze* sind allesamt Mitglieder des Vereines "KIBU" ([Komponisten und Interpreten des Burgenlandes](http://www.kibu.net/)). Um die regelmässigen KIBU-Konzerte abwechslungsreicher zu gestalten, entstand die Idee, ein Ensemble in nicht alltäglicher Besetzung ins Leben zu rufen.
+Die Musiker des *Trio Douze* sind allesamt Mitglieder des Vereines "**KIBU**" ([Komponisten und Interpreten des Burgenlandes](http://www.kibu.net/)). Um die regelmässigen KIBU-Konzerte abwechslungsreicher zu gestalten, entstand die Idee, ein Ensemble in nicht alltäglicher Besetzung ins Leben zu rufen.
 
 Mit dem *Trio Douze* wurde diese Idee im Jahre 2005 realisiert. Die künstlerische Heimat des Ensembles ist das Institut 12 der [Grazer Musik-Universität](http://www.kug.ac.at/) mit Sitz in [Oberschützen](http://www.kug.ac.at/oberschuetzen), wo die Trio-Mitglieder als Lehrer tätig sind oder waren.
 
