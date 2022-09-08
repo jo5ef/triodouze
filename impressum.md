@@ -12,6 +12,6 @@ Graben 13
 7533 Ollersdorf
 Österreich
 
-E-Mail: akg@trio-douze.at
+E-Mail: pfleger.kurt@gmail.com
 Telefon: +43 (3326) 53 063
 ```
